@@ -72,3 +72,7 @@
 - [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing_(Unicode_block))  
 - [tmux cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - [Nerdfont list of glyphs](https://github.com/ryanoasis/nerd-fonts/issues/144)
+
+
+# Other 
+- [shields.io](https://shields.io/)
